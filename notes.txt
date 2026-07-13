@@ -2,3 +2,4 @@ Git Practice Repository
 
 Commit 1
 Learning Git Reset
+Learning Git Restore
